@@ -12,6 +12,9 @@ import com.github.concept.not.found.indented.formatter.TabbedFormatter;
 
 import org.apache.commons.lang3.StringUtils;
 
+/**
+ * Test various ParagraphFormatters.
+ */
 public class OutputTest {
 
 	private static final Paragraph SAMPLE_PARAGRAPH = createSampleParagraph();

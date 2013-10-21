@@ -6,6 +6,9 @@ import com.github.concept.not.found.indented.ParagraphFormatter;
 
 import org.apache.commons.lang3.StringUtils;
 
+/**
+ * Formats the Paragraph into plain text tabbed for each indent level.
+ */
 public class TabbedFormatter implements ParagraphFormatter {
 
 	@Override

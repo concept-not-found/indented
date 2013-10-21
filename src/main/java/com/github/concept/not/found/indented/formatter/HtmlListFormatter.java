@@ -7,6 +7,11 @@ import com.github.concept.not.found.indented.Line;
 import com.github.concept.not.found.indented.Paragraph;
 import com.github.concept.not.found.indented.ParagraphFormatter;
 
+/**
+ * Formats the Paragraph into an unordered HTML list snippet.
+ *
+ * Indented lines will be nested unordered HTML lists.
+ */
 public class HtmlListFormatter implements ParagraphFormatter {
 
 	@Override
