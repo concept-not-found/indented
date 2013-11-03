@@ -1,7 +1,7 @@
-# Indented
-## Record indented data structures and output them in various formats 
+![Indented](http://concept-not-found.github.io/indented/images/indented.svg "Indented")
+##### Record indented data structures and output them in various formats 
 
-## Installation
+### Installation
 Indented is a [Maven](http://maven.apache.org/) project.
 
 Artifacts in Maven Central coming soon.
@@ -13,10 +13,10 @@ Artifacts in Maven Central coming soon.
 </dependency>
 ```
 
-## Usage
+### Usage
 See http://concept-not-found.github.io/indented/
 
-##Copyright and License
+### Copyright and License
 <pre>
 Copyright 2013 Ronald Chen
 
