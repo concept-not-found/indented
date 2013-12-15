@@ -4,12 +4,11 @@
 ### Installation
 Indented is a [Maven](http://maven.apache.org/) project.
 
-Artifacts in Maven Central coming soon.
 ```xml
 <dependency>
     <groupId>com.github.concept-not-found</groupId>
     <artifactId>indented</artifactId>
-    <version>1-SNAPSHOT</version>
+    <version>1</version>
 </dependency>
 ```
 
